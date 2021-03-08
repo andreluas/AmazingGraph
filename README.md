@@ -80,7 +80,7 @@ Designed and created by  <a href="https://github.com/Lorenalgm">Lorena</a> :)
 ___
 # My Solutions :tada:
 ## Desktop
-![desktop](design/solutions/desktop.PNG);
+![desktop](/design/solutions/desktop.PNG);
 
 ## Mobile
-![mobile](design/solutions/mobile.PNG);
+![mobile](/design/solutions/mobile.PNG);
